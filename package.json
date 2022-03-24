@@ -1,0 +1,25 @@
+{
+  "name": "droid-profanity",
+  "version": "1.0.0",
+  "description": "Profanity test for any string",
+  "main": "index.js",
+  "scripts": {
+    "start": "node test.js"
+  },
+  "author": "raza.11409652@lpu.in",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raza11409652/droid-profanity.git"
+  },
+  "keywords": [
+    "string validator",
+    "profanity test"
+  ],
+  "engines": {
+    "node": ">= 8.0.0"
+  }
+}
